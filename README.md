@@ -2,7 +2,6 @@
 
 A local multiplayer stealth game inspired by the classic concept. Two players compete on a grid to find secret data and escape, using traps and stealth to outsmart each other.
 
-![Blueprint Theme](https://via.placeholder.com/800x400?text=Spy+vs+Spy+Blueprint+Theme)
 
 ## 🎮 Game Overview
 - **Objective**: Search the grid to find the **Secret Data (Briefcase)**. Once you have it, reach the **Exit (Green Zone)** to win.
